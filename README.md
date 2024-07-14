@@ -21,3 +21,7 @@ I conducted a detailed analysis to answer several key questions related to custo
 2. Cross-Price Elasticity: How does the purchase probability of a customer for a brand change with fluctuations in the price of other brands?
 3. Price Elasticity of Purchase Probability: How does the purchase probability change with and without promotion?
 4. Price Elasticity of Purchase Quantity: How does the purchase quantity change with and without promotion?
+
+The dataset ''segmentation data.csv'' is utilized to build the segmentation model in the ''Customer Analytics Segmentation.ipynb'' notebook. Accompanying this dataset, the ''segmentation data legend.xlsx'' file provides a detailed explanation of what each column represents within the segmentation data.
+
+For the descriptive analysis conducted in the ''Purchase Analytics Descriptive Analysis.ipynb'' notebook, I used the ''purchase data.csv'' dataset. This dataset includes purchase data from a convenience store, recorded on a daily basis over a period of two years. In this project, I focused specifically on the purchase of chocolate candy bars. The ''purchase data legend.xlsx'' file contains the legends, explaining what each column in the purchase data.csv file signifies.
