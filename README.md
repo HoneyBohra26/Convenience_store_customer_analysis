@@ -13,5 +13,11 @@ In Purchase Analytics Descriptive Analysis.ipynb, I leverage the segmentation mo
 Purchase Analytics Predictive Analysis
 In Purchase Analytics Predictive Analysis.ipynb, I delve into the calculation of price elasticity for purchase probability and quantity. This analysis includes evaluating purchase probabilities by segments, with and without promotions, as well as determining own and cross-price elasticities by segment. The analysis helps in understanding brand choices made by different customer segments.
 
-Price elasticity:
-1% change in output variable in response to a 1% change in input variable.If value of 'Price elasticity' in absolute terms is less than 1 than it is 'inelastic'. Because, 1% change in price causes less than 1% change in purchase probability. Hence, increase in price will not cause significant decrease in purchase probability.For inelasticity we can increase price, for elasticity we need to decrease price to increase purchase.I have conducted a detailed analysis to answer several key questions related to customer shopping behavior with change in price. These questions include:
+In my analysis of price elasticity, I explored how changes in price affect customer shopping behavior. Price elasticity measures the responsiveness of an output variable to a 1% change in an input variable. If the absolute value of 'price elasticity' is less than 1, the demand is considered 'inelastic.' This means a 1% change in price results in less than a 1% change in purchase probability, indicating that an increase in price will not significantly decrease purchase probability. For inelastic products, we can increase the price, whereas for elastic products, we need to decrease the price to boost purchases.
+
+I conducted a detailed analysis to answer several key questions related to customer shopping behavior in response to price changes:
+
+1. Own Brand-Price Elasticity: How does the purchase probability of a customer for a brand change with variations in the price of that brand?
+2. Cross-Price Elasticity: How does the purchase probability of a customer for a brand change with fluctuations in the price of other brands?
+3. Price Elasticity of Purchase Probability: How does the purchase probability change with and without promotion?
+4. Price Elasticity of Purchase Quantity: How does the purchase quantity change with and without promotion?
